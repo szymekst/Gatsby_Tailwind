@@ -1,0 +1,24 @@
+{
+  "name": "vumo.ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "vumo.ai",
+  "author": "Szymon Stawowy",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-postcss": "^6.1.0",
+    "postcss": "^8.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
